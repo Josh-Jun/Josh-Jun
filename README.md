@@ -13,6 +13,12 @@
 
 :briefcase: [PicoTools](https://github.com/Josh-Jun/PicoTools)
 
+---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Jun&theme=dark&layout=compact)
 
+---
+
 ![](https://activity-graph.herokuapp.com/graph?username=Josh-Jun&theme=github)
+
+---

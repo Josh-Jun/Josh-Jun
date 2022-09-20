@@ -5,7 +5,7 @@
 <a href="https://www.shijunzh.com/"><img src="https://img.shields.io/badge/Blog-大腿Plus-blue?style=flat-square"/></a>
 </p>
 
-# My Repository :earth_asia:
+# :earth_asia: My Repository
 
 :video_game: [MyUnityFramework](https://github.com/Josh-Jun/MyUnityFramework)
 

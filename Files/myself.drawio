@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T02:48:37.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="tdfS7tfnEx_pYixOk1Qf" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T02:52:31.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="bSq0k60RAsu3-2xdTGrH" version="20.5.1" type="github">
   <diagram id="mrw0cMHbIpeQKUJW4JVx" name="第 1 页">
-    <mxGraphModel dx="2031" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,8 +65,8 @@
         <mxCell id="GfWmEhK6W-lZVDp477oG-9" value="构造方法(只执行一次)" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="735" y="204" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GfWmEhK6W-lZVDp477oG-11" value="Begin（根据配置表在对应场景初始化)" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="735" y="245" width="210" height="30" as="geometry" />
+        <mxCell id="GfWmEhK6W-lZVDp477oG-11" value="Begin(根据配置表在对应场景初始化)" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="735" y="245" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GfWmEhK6W-lZVDp477oG-13" value="End(根据配置表在对应场景退出之后执行)" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="735" y="286" width="230" height="30" as="geometry" />

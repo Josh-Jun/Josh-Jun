@@ -11,7 +11,7 @@
 
 :hammer: [AndroidHelper](https://github.com/Josh-Jun/AndroidHelper)
 
-:briefcase: [UPM](https://github.com/Josh-Jun/UPM.git)
+:briefcase: [upm](https://github.com/Josh-Jun/UPM.git)
 
 ---
 

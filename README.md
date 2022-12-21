@@ -7,11 +7,11 @@
 
 # :earth_asia: My Repository
 
-:video_game: [MyUnityFramework](https://github.com/Josh-Jun/MyUnityFramework)
+:video_game: [MyUnityFramework](https://github.com/Josh-Jun/MyUnityFramework.git)
 
-:hammer: [AndroidHelper](https://github.com/Josh-Jun/AndroidHelper)
+:hammer: [androidhelper](https://github.com/Josh-Jun/androidhelper.git)
 
-:briefcase: [upm](https://github.com/Josh-Jun/UPM.git)
+:briefcase: [upm](https://github.com/Josh-Jun/upm.git)
 
 ---
 

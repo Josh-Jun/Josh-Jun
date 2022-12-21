@@ -9,7 +9,7 @@
 
 :video_game: [MyUnityFramework](https://github.com/Josh-Jun/MyUnityFramework.git)
 
-:hammer: [androidhelper](https://github.com/Josh-Jun/androidhelper.git)
+:hammer: [AndroidHelper](https://github.com/Josh-Jun/AndroidHelper.git)
 
 :briefcase: [upm](https://github.com/Josh-Jun/upm.git)
 

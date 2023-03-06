@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T09:13:04.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="XAqjevJyKwG286_MDoJE" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-06T09:21:12.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="M8s7RkKC94pjBL0yqGCs" version="21.0.2" type="github" pages="2">
   <diagram id="mrw0cMHbIpeQKUJW4JVx" name="第 1 页">
     <mxGraphModel dx="1516" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -160,21 +160,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kuI0m5DMZxDGBfAMQLt2-299" value="&lt;div style=&quot;&quot;&gt;判断是否更新资源&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kuI0m5DMZxDGBfAMQLt2-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kuI0m5DMZxDGBfAMQLt2-301" target="kuI0m5DMZxDGBfAMQLt2-303">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kuI0m5DMZxDGBfAMQLt2-301" value="&lt;div style=&quot;&quot;&gt;下载AB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kuI0m5DMZxDGBfAMQLt2-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kuI0m5DMZxDGBfAMQLt2-303" target="kuI0m5DMZxDGBfAMQLt2-304">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kuI0m5DMZxDGBfAMQLt2-303" value="&lt;div style=&quot;&quot;&gt;加载AB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kuI0m5DMZxDGBfAMQLt2-301" value="&lt;div style=&quot;&quot;&gt;加载Update场景&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kuI0m5DMZxDGBfAMQLt2-304" value="&lt;div style=&quot;&quot;&gt;加载Logic脚本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kuI0m5DMZxDGBfAMQLt2-303" value="&lt;div style=&quot;&quot;&gt;加载其他场景&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kuI0m5DMZxDGBfAMQLt2-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kuI0m5DMZxDGBfAMQLt2-309" target="kuI0m5DMZxDGBfAMQLt2-313">
@@ -208,8 +199,14 @@
         <mxCell id="kuI0m5DMZxDGBfAMQLt2-313" value="&lt;div style=&quot;&quot;&gt;加载AB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kuI0m5DMZxDGBfAMQLt2-314" value="&lt;div style=&quot;&quot;&gt;加载Logic脚本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kuI0m5DMZxDGBfAMQLt2-314" value="&lt;div style=&quot;&quot;&gt;加载其他场景&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kuI0m5DMZxDGBfAMQLt2-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kuI0m5DMZxDGBfAMQLt2-315" target="kuI0m5DMZxDGBfAMQLt2-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuI0m5DMZxDGBfAMQLt2-315" value="&lt;div style=&quot;&quot;&gt;加载Logic脚本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

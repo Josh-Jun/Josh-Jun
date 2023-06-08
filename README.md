@@ -5,7 +5,9 @@
 <a href="https://www.shijunzh.com/"><img src="https://img.shields.io/badge/Blog-大腿Plus-blue?style=flat-square"/></a>
 </p>
   
-[科学上网服务](https://xiyou4you.us/r/?s=23221912)
+<p>
+<a href="https://xiyou4you.us/r/?s=23221912"><img src="https://img.crx4chrome.com/60/a8/1c/cmegjchfmigcacidhfdkgeddoaekhlmj-featured.webp"/>
+</p>
 
 # :earth_asia: My Repository
 

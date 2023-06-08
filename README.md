@@ -6,7 +6,7 @@
 </p>
   
 <p>
-<a href="https://xiyou4you.us/r/?s=23221912"><img src="https://img.crx4chrome.com/60/a8/1c/cmegjchfmigcacidhfdkgeddoaekhlmj-featured.webp"/>
+<a href="https://xiyou4you.us/r/?s=23221912"><img src="https://img.crx4chrome.com/60/a8/1c/cmegjchfmigcacidhfdkgeddoaekhlmj-featured.webp" height="200" width="200"/>
 </p>
 
 # :earth_asia: My Repository

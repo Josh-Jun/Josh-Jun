@@ -6,7 +6,7 @@
 </p>
   
 <p>
-<a href="https://xiyou4you.us/r/?s=23221912"><img src="https://img.crx4chrome.com/60/a8/1c/cmegjchfmigcacidhfdkgeddoaekhlmj-featured.webp" height="140" width="190" alt="科学上网-西游VPN"/>
+<a href="https://xiyou4you.us/r/?s=23221912" target="_blank"><img src="https://img.crx4chrome.com/60/a8/1c/cmegjchfmigcacidhfdkgeddoaekhlmj-featured.webp" height="140" width="190" alt="科学上网-西游VPN"/>
 </p>
 
 # :earth_asia: My Repository

@@ -23,6 +23,6 @@
 
 ---
 
-<div align="left"><img src="https://raw.githubusercontent.com/Josh-Jun/Josh-Jun/output/github-contribution-grid-snake-dark.svg" /></div>
+<div align="left"><img src="https://raw.githubusercontent.com/Josh-Jun/Josh-Jun/output/github-contribution-grid-snake.svg" /></div>
 
 ---

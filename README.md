@@ -19,7 +19,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Jun&theme=dark&layout=compact)
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Josh-Jun&show_icons=true&theme=tokyonight" /> </div>
 
 ---
 
